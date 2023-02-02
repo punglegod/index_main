@@ -1,2 +1,13 @@
-# index_main
-个人引导页源码
+# 个人主页
+个人引导页源码，二改自@imssyy
+## 使用方法
+### 下载yarn
+npm install yarn
+### 下载依赖
+yarn install
+### 构建页面
+yarn build
+### 生成页面
+yarn dev
+### 托管
+将dist目录放入网站根目录即可
