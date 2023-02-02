@@ -9,5 +9,5 @@ yarn install
 yarn build
 ### 生成页面
 yarn dev
-### 托管
+### 代码托管
 将dist目录放入网站根目录即可
